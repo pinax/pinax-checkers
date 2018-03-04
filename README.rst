@@ -11,13 +11,13 @@ Pinax Checkers
 .. image:: https://coveralls.io/repos/pinax/pinax-checkers/badge.png
     :target: https://coveralls.io/r/pinax/pinax-checkers
 
-.. image:: https://pypip.in/d/pinax.checkers/badge.png
+.. image:: https://img.shields.io/pypi/dm/pinax.checkers.svg
     :target:  https://pypi.python.org/pypi/pinax.checkers/
 
-.. image:: https://pypip.in/v/pinax.checkers/badge.png
+.. image:: https://img.shields.io/pypi/v/pinax.checkers.svg
     :target:  https://pypi.python.org/pypi/pinax.checkers/
 
-.. image:: https://pypip.in/license/pinax.checkers/badge.png
+.. image:: https://img.shields.io/pypi/l/pinax.checkers.svg
     :target:  https://pypi.python.org/pypi/pinax.checkers/
     
 
